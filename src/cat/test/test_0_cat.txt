@@ -1,0 +1,13 @@
+1 ‐‐ unicode dashes e28090
+3 💘 Heart With Arrow Emoji - Emojipedia == UTF8? f09f9298
+5 © copyright c2a9
+7 call  underscore c2a0
+9 CTRL-H CHARS URK URK URK 
+11 LIVE‐E! あいうえお かが アイウエオ カガ ᚊ ᚋ ซฌ आइ  YEOW, mix of japanese and chars from other e38182 e38184 . . e0a487
+29 1 ‐‐ unicode dashes
+30 3 💘 Heart With Arrow Emoji - Emojipedia == UTF8 e28090
+31 5 © copyright
+32 7 call  underscore
+33 11 LIVE‐E! あいうえお かが アイウエオ カガ ᚊ ᚋ ซฌ आइ  YEOW, mix of japanese and chars from other
+34 52 LIVE‐E! あいうえお かが アイウエオ カガ ᚊ ᚋ ซฌ आइ  YEOW, mix of japanese and chars from other
+73 LIVE‐E! あいうえお かが アイウエオ カガ ᚊ ᚋ ซฌ आइ  YEOW, mix of japanese and chars from other
